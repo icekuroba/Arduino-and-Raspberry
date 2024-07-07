@@ -1,3 +1,4 @@
+## Recursos
 Materiales a usar:
 * Placa de proyectos Arduino UNO
 * 11 Micro Servo MG90S 
