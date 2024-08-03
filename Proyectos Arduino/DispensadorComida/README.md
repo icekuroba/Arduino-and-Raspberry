@@ -1,5 +1,5 @@
 ## Recursos
-es un proyecto loT
+* es un proyecto loT
 Materiales a usar:
 * Placa Nodecum ESP 32
 * 1 Micro Servo SG90
@@ -7,3 +7,7 @@ Materiales a usar:
 * Botella de plastico
 * Cable USB tipo C
 * Piezas para la base para el despachador
+  
+## Software
+* Arduino IDE
+*bot de telegram
