@@ -1,8 +1,9 @@
 ## Recursos
 Materiales a usar:
 * Placa Raspberry Pi 5
-* 1 Micro Servo SG90
-* 4 Headers o Jumpers M-M y M-H
+* Bateria portatil 7200 mAh
+* 7 inch ips display & conector
+* Teclado bluetooth
   
 ## Software
 * Arduino IDE
