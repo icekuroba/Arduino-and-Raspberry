@@ -10,4 +10,5 @@
 * Pantalla: Pantalla táctil LCD de 7 Pulgadas, 1024x600 IPS Display con Soporte, HDMI
 * Lápiz y entrada táctil: Disponible en la pantalla táctil
 * Conectividad
-* * Bluetooth: 5.0
+  * Bluetooth: 5.0
+  * Ethernet: Gigabit Ethernet
