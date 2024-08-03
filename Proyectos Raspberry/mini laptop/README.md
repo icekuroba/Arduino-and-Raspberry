@@ -17,3 +17,5 @@ Materiales a usar:
 - [VNC Viwer](https://www.realvnc.com/es/connect/download/viewer/)
 - [File Zille Pro](https://filezilla-project.org/)
 - [File Zille Pro Client](https://filezilla-project.org/download.php?type=client)
+
+- https://www.amazon.com.mx/gp/product/B0CRRB1GFN/ref=ewc_pr_img_1?smid=A14QQSVUP5YM1R&psc=1
