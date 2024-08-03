@@ -5,6 +5,8 @@ Materiales a usar:
 * 7 inch ips display & conector
 * Teclado bluetooth
   
-## Software
-* Arduino IDE
-* [Bot de telegram](https://web.telegram.org/k/#@BotFather)
+## Software para la parte loT
+- [Software](https://www.raspberrypi.com/software/)
+- [VNC Viwer](https://www.realvnc.com/es/connect/download/viewer/)
+- [File Zille Pro](https://filezilla-project.org/)
+- [File Zille Pro Client](https://filezilla-project.org/download.php?type=client)
