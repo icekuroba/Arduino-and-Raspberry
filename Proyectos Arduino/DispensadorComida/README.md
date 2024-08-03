@@ -1,5 +1,5 @@
+## Es un proyecto loT
 ## Recursos
-* es un proyecto loT
 Materiales a usar:
 * Placa Nodecum ESP 32
 * 1 Micro Servo SG90
