@@ -11,11 +11,10 @@ Materiales a usar:
 * Altavoces (opcional)
 * Ventilador PWM
 * Disipador térmico
+* https://www.amazon.com.mx/gp/product/B0CQ75N7H4/ref=ox_sc_act_title_5?smid=A1DP77YZC23TT0&psc=1
   
 ## Software para la parte loT
 - [Software](https://www.raspberrypi.com/software/)
 - [VNC Viwer](https://www.realvnc.com/es/connect/download/viewer/)
 - [File Zille Pro](https://filezilla-project.org/)
 - [File Zille Pro Client](https://filezilla-project.org/download.php?type=client)
-
-- https://www.amazon.com.mx/gp/product/B0CRRB1GFN/ref=ewc_pr_img_1?smid=A14QQSVUP5YM1R&psc=1
