@@ -1,5 +1,5 @@
 ## Especificaciones del Dispositivo de la Mini Laptop (Raspberry Pi 5)
-* Nombre del dispositivo: RaspberryPi-5
+* Nombre del dispositivo: AisuDev
 * Procesador: ARM Cortex-A76 quad-core @ 1.8 GHz (4 núcleos, 4 hilos)
 * RAM instalada: 8.0 GB LPDDR4-3200
 * Tipo de sistema: Sistema operativo de 64 bits, procesador basado en ARM
