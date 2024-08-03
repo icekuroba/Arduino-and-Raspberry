@@ -10,4 +10,4 @@ Materiales a usar:
   
 ## Software
 * Arduino IDE
-*bot de telegram
+* bot de telegram
