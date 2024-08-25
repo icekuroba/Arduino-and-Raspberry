@@ -12,3 +12,5 @@
 * Conectividad
   * Bluetooth: 5.0
   * Ethernet: Gigabit Ethernet
+* Dimensiones de laptop:
+  * 24.7 x 15.3 x 2.5
