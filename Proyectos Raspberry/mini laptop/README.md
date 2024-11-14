@@ -1,7 +1,7 @@
 ## Recursos
 Materiales a usar:
-* Ya tenemos el teclado
-* 1 mouse
+* Teclado (LISTO)
+* 1 mouse (LISTO)
 * Ventilador
 * Altavoces
 
