@@ -13,7 +13,8 @@ Materiales a usar:
 * Altavoces (opcional) (LISTO)
 * Ventilador PWM (LISTO)
 * Disipador térmico (LISTO)
-* Joysticks
+* [Joysticks](https://es.aliexpress.com/item/1005007498682143.html?spm=a2g0o.productlist.main.119.7b2f1d28AJRcQF&algo_pvid=cb3f394f-932b-4a3a-8f59-25e3bccdcb78&utparam-url=scene%3Asearch%7Cquery_from%3A)
+* 
 
   
 ## Software para la parte loT
