@@ -34,7 +34,7 @@ def leer_dht11():
     except Exception:
         return None, None
 
-def leer_analogico(channel):
+def leer_analogico(channel):  
     if channel < 0 or channel > 7:
         return -1
     adc = spi.xfer2([1, (8 + channel) << 4, 0])
@@ -42,7 +42,7 @@ def leer_analogico(channel):
     return data
 
 def leer_calidad_aire():
-    valor_analogico = leer_analogico(0)
+    valor_analogico = leer_analogico(1)  # canal 1
     if valor_analogico < 200:
         calidad = "Buena"
     elif valor_analogico < 600:
@@ -55,7 +55,7 @@ def leer_calidad_aire():
 def leer_uv():
     suma_data = 0
     for _ in range(10):
-        adc = leer_analogico(0)
+        adc = leer_analogico(0)   # canal 0
         suma_data += adc
         sleep(0.1)
     promedio = suma_data / 10
@@ -76,7 +76,7 @@ def leer_anemometro():
     return velocidad
 
 def leer_veleta():
-    valor = leer_analogico(2)
+    valor = leer_analogico(2)   # canal 2
     return direccion_veleta(valor)
 
 def direccion_veleta(valor):
