@@ -14,7 +14,7 @@ Frente al incremento de eventos climáticos extremos, se requiere una solución 
 - Radiación UV
 - Calidad del aire
 
-![Texto alternativo](diagrama/estacion dibujos.png)
+![Texto alternativo](diagrama/estacion_dibujos.png)
 
 ## 🧩 Componentes
 
