@@ -14,6 +14,8 @@ Frente al incremento de eventos climáticos extremos, se requiere una solución 
 - Radiación UV
 - Calidad del aire
 
+![Texto alternativo](diagrama/estacion dibujos.png)
+
 ## 🧩 Componentes
 
 - **Raspberry Pi 5**
