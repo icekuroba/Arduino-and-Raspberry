@@ -13,16 +13,16 @@ def detectar_boton():
     Devuelve: 'subir', 'bajar', 'seleccionar', 'regresar' o None
     """
     if BOTON_SUBIR.is_pressed:
-        sleep(0.2)  # Antirrebote
+        sleep(0.05)  # Antirrebote
         return "subir"
     elif BOTON_BAJAR.is_pressed:
-        sleep(0.2)  # Antirrebote
+        sleep(0.05)  # Antirrebote
         return "bajar"
     elif BOTON_SELECCIONAR.is_pressed:
-        sleep(0.2)  # Antirrebote
+        sleep(0.05)  # Antirrebote
         return "seleccionar"
     elif BOTON_REGRESAR.is_pressed:
-        sleep(0.2)  # Antirrebote
+        sleep(0.05)  # Antirrebote
         return "regresar"
     else:
         return None
