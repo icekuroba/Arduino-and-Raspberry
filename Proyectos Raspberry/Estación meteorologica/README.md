@@ -66,11 +66,11 @@ sudo python3 setup.py install --force-pi
 
 ## 📂 Main files
 
-- `main.py`: Lógica del menú y visualización de sensores
-- `sensores.py`: Funciones para cada sensor
-- `botones.py`: Lectura de botones físicos
-- `lcd_display.py`: Funciones para mostrar texto en el LCD
-- `I2C_LCD_driver.py`: Driver I2C para la pantalla
+- `main.py`: Menu logic and sensor data display
+- `sensores.py`: Functions for each sensor
+- `botones.py`: Physical button reading
+- `lcd_display.py`: Functions for displaying text on the LCD
+- `I2C_LCD_driver.py`: I2C driver for the LCD display
 
 ## 🚀 Automatic Execution (Optional)
 
