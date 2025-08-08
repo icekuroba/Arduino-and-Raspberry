@@ -1,8 +1,8 @@
-## Enlaces a paginas oficiales
+## Online Resources for Configuration
 - [Página oficial de Arduino](https://www.arduino.cc)
 - [Página oficial de Raspberry Pi](https://www.raspberrypi.org)
 
-## Tienda
+## Stores
 - [The PiHut](https://thepihut.com/collections/maker-store)
 - [Steren](https://www.steren.com.mx/)
 - [Unit](https://uelectronics.com/)
