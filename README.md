@@ -1,11 +1,102 @@
-## Online Resources for Configuration
-- [Página oficial de Arduino](https://www.arduino.cc)
-- [Página oficial de Raspberry Pi](https://www.raspberrypi.org)
+# Arduino and Raspberry
 
-## Stores
-- [The PiHut](https://thepihut.com/collections/maker-store)
-- [Steren](https://www.steren.com.mx/)
-- [Unit](https://uelectronics.com/)
-- [Kinetronica](https://Kinetronica.com/)
-- [Amazon](https://www.amazon.com.mx/gp/product/B0CQ75N7H4/ref=ewc_pr_img_1?smid=A1DP77YZC23TT0&psc=1)
-- [Aliexpress](https://es.aliexpress.com/item/1005006813658604.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.6.648bjwEgjwEgfH&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40000.327270.0&scm_id=1007.40000.327270.0&scm-url=1007.40000.327270.0&pvid=ba3c32f0-1995-4dcb-a0a1-a2fbeef1b32c&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40000.327270.0,pvid:ba3c32f0-1995-4dcb-a0a1-a2fbeef1b32c,tpp_buckets:668%232846%238113%231998&pdp_npi=4%40dis%21MXN%211377.99%211377.99%21%21%2175.07%2175.07%21%402103011517205789946537966e4082%2112000038398368410%21rec%21MX%214416786598%21&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A)
+## Overview
+
+This repository contains electronics and hardware prototyping projects using Arduino, Raspberry Pi, PIC microcontrollers, Proteus simulations, sensors, automation, and embedded programming.
+
+The goal is to document practical projects related to physical computing, microcontrollers, circuit simulation, and sensor-based automation.
+
+## Focus Areas
+
+- Arduino projects
+- Raspberry Pi projects
+- PIC microcontroller practice
+- Proteus circuit simulation
+- Sensor-based automation
+- Embedded programming
+- Hardware prototyping
+- Basic IoT concepts
+
+## Repository Structure
+
+```text
+Arduino-and-Raspberry/
+├── Libros/
+├── PIC 16F877A/
+├── Proteus/ ventilador solar/
+├── Proyectos Arduino/
+├── Proyectos Raspberry/
+└── README.md
+```
+
+## Main Sections
+
+### Arduino Projects
+
+Projects and practice files related to Arduino-based automation, sensors, actuators, and microcontroller programming.
+
+Folder:
+
+```text
+Proyectos Arduino/
+```
+
+### Raspberry Pi Projects
+
+Projects and notes related to Raspberry Pi, Python, Linux-based hardware control, and sensor integration.
+
+Folder:
+
+```text
+Proyectos Raspberry/
+```
+
+### PIC 16F877A
+
+Microcontroller practice focused on PIC 16F877A programming and embedded systems fundamentals.
+
+Folder:
+
+```text
+PIC 16F877A/
+```
+
+### Proteus Simulation
+
+Circuit simulation projects created with Proteus.
+
+Current simulation:
+
+```text
+Proteus/ ventilador solar/
+```
+
+## Tools and Technologies
+
+- Arduino
+- Raspberry Pi
+- PIC 16F877A
+- Proteus
+- C / C++
+- Assembly
+- Python
+- Sensors and actuators
+- Embedded systems
+
+## Useful Resources
+
+- Official Arduino documentation
+- Official Raspberry Pi documentation
+- Electronics component stores and hardware suppliers
+
+## Purpose
+
+This repository is part of my electronics, embedded systems, and hardware prototyping portfolio.
+
+It focuses on practical projects that combine programming, circuits, sensors, automation, and microcontroller-based development.
+
+## Notes
+
+Some folders may contain academic resources, practice files, simulations, or early-stage projects.
+
+No sensitive information should be included in this repository.
