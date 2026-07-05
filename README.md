@@ -1,7 +1,5 @@
 # Arduino and Raspberry
 
-## Overview
-
 This repository contains electronics and hardware prototyping projects using Arduino, Raspberry Pi, PIC microcontrollers, Proteus simulations, sensors, automation, and embedded programming.
 
 The goal is to document practical projects related to physical computing, microcontrollers, circuit simulation, and sensor-based automation.
